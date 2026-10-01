@@ -44,7 +44,7 @@ variable "aws_integration_id" {
 
   # CHANGE ME: the ID of your Spacelift AWS integration. Find it under
   # Integrate services > AWS in the Spacelift UI.
-  default = "<YOUR_SPACELIFT_AWS_INTEGRATION_ID>"
+  default = "01M3VJS7AQ0AXD5W42NY9S7EXD"
 }
 
 variable "kubectl_version" {
